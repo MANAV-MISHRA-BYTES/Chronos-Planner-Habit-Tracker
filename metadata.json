@@ -1,0 +1,5 @@
+{
+  "name": "Chronos Planner & Habit Tracker",
+  "description": "A comprehensive daily routine planner featuring time-blocked tasks, GitHub-style productivity visualization, data portability via JSON export/import, and an integrated AI productivity coach powered by Gemini.",
+  "requestFramePermissions": []
+}
